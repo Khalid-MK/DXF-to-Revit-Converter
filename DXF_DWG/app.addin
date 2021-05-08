@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ApplicationPlugin</Name>
+    <Assembly>G:\CEI\Assignments\test\Revit_API\Revit_API\DXF_DWG\bin\Debug\DXF_DWG.dll</Assembly>
+    <AddInId>
+      92D998BD-1527-42D9-A0ED-2C56146AE230
+    </AddInId>
+    <FullClassName>DXF_DWG.ExternalApplication</FullClassName>
+    <VendorId>Khalid</VendorId>
+    <VendorDescription>MK</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
